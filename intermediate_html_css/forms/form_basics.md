@@ -351,7 +351,7 @@ We can set checkboxes to be checked by default on page load by giving them a `ch
 
 The button element creates clickable buttons that the user can interact with to submit forms and trigger other actions.
 
-To create a button, we use the `<button>` element. The content or text we want to have displayed inside the button will go within the opening and closing tags:
+To create a button, we use the `<button>` element. The content or text we want to be displayed inside the button will go within the opening and closing tags:
 
 ```html
 <button>Click Me</button>
